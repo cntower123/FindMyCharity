@@ -2,7 +2,7 @@
 
 An iOS app for discovering charity projects around the world on a map.
 
-*[Watch the demo](https://www.youtube.com/watch?v=_TCtGyyfGRo&list=PLMaUP03VcEoo)**
+*[Watch the demo](https://www.youtube.com/watch?v=pEAwracgrvg&list=PLMaUP03VcEoo&index=2)**
 
 # What it does
 
